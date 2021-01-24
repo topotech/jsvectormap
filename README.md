@@ -1,3 +1,5 @@
+IMPORTANT: https://www.cssscript.com/interactive-vector-map/
+
 <p align="center">
   <a href="https://themustafaomar.com/open-source/jsvectormap">
     <img src="assets/images/jsvectormap.jpg" alt="Jsvectormap sample" width="500" />
